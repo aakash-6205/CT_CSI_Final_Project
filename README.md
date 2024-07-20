@@ -1,1 +1,1 @@
-# CT_CSI_Final_Project
+# Customer Lifetime Value Prediction
